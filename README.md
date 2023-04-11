@@ -5,7 +5,7 @@ This data set contains the customer's data from a fictional loan company - Prosp
 > One interesting observation is that the the borrowers with the highest income range took more loans and have the highest ongoing loan status. Another interesting relationship is that borrowers who didn't display their income range had a higher percentage of defaulted loan status than any other income range group.
 > It was also observed that there is a positive direct relationship between the BorrowerAPR and Lenders Yield
 
-## Conclusions
+## Conclusion
 > The Prosper Loan dataset is well detailed with a lot of features to analyse. Although, there are some in-accuracy in the dataset which require a little cleaning, manipulation and dropping of a few columns, but overall the main features of the dataset is explanatory. The datetime adjustment that was done was for the purpose of drilling down the date column to reveal not just the year variable but the months and Quaters in each year, this has helped the visualization look more detailed.
 
 > In conclusion, the Prosper Loan dataset has showned that factors like employment status, homeownership, income range, and the economic climate all have an impact on borrower loan status, and that lenders should consider these factors when making lending decisions to minimize the risk of default.
